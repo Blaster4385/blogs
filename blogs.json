@@ -1,0 +1,7 @@
+{
+    "blog1" : {
+        "title" : "Git it done: An Introduction to Git",
+        "brief" : "In the world of software development, version control is an indispensable tool that allows teams to collaborate seamlessly, track changes, and manage code effectively. Git, a distributed version control system, has revolutionized the way developers work by providing powerful features and flexibility. Whether you're a beginner or have some experience with version control, this comprehensive guide will take you through the essential concepts and advanced techniques of Git."
+    }
+    
+}
